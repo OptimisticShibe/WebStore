@@ -87,11 +87,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Category.cs">
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
+    </Compile>
     <Compile Include="Class1.cs" />
+    <Compile Include="Order.cs">
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OrderItem.cs">
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs">
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
+    </Compile>
     <Compile Include="ProductDatabase.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ProductDatabase.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDatabase.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
     </Compile>
     <Compile Include="ProductDatabase.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -99,6 +116,12 @@
       <DependentUpon>ProductDatabase.edmx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShoppingCartItem.cs">
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <DependentUpon>ProductDatabase.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
@@ -115,6 +138,12 @@
     <Content Include="ProductDatabase.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>ProductDatabase.Context.cs</LastGenOutput>
+      <DependentUpon>ProductDatabase.edmx</DependentUpon>
+    </Content>
+    <Content Include="ProductDatabase.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ProductDatabase.edmx</DependentUpon>
+      <LastGenOutput>ProductDatabase.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>
