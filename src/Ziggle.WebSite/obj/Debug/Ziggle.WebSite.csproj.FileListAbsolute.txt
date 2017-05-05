@@ -73,3 +73,7 @@ C:\source\WebStore\src\Ziggle.WebSite\bin\Autofac.dll
 C:\source\WebStore\src\Ziggle.WebSite\bin\Autofac.Integration.Mvc.dll
 C:\source\WebStore\src\Ziggle.WebSite\bin\Autofac.xml
 C:\source\WebStore\src\Ziggle.WebSite\bin\Autofac.Integration.Mvc.xml
+C:\source\WebStore\src\Ziggle.WebSite\bin\Ziggle.Repository.dll
+C:\source\WebStore\src\Ziggle.WebSite\bin\Ziggle.ProductDatabase.dll
+C:\source\WebStore\src\Ziggle.WebSite\bin\Ziggle.Repository.pdb
+C:\source\WebStore\src\Ziggle.WebSite\bin\Ziggle.ProductDatabase.pdb

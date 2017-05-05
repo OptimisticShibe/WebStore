@@ -90,7 +90,6 @@
     <Compile Include="Category.cs">
       <DependentUpon>ProductDatabase.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="Order.cs">
       <DependentUpon>ProductDatabase.tt</DependentUpon>
     </Compile>

@@ -22,3 +22,7 @@ C:\source\WebStore\src\Ziggle.Business\bin\Debug\System.Web.Razor.xml
 C:\source\WebStore\src\Ziggle.Business\bin\Debug\System.Web.WebPages.xml
 C:\source\WebStore\src\Ziggle.Business\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\source\WebStore\src\Ziggle.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\source\WebStore\src\Ziggle.Business\bin\Debug\Ziggle.ProductDatabase.dll
+C:\source\WebStore\src\Ziggle.Business\bin\Debug\EntityFramework.dll
+C:\source\WebStore\src\Ziggle.Business\bin\Debug\Ziggle.ProductDatabase.pdb
+C:\source\WebStore\src\Ziggle.Business\bin\Debug\EntityFramework.xml

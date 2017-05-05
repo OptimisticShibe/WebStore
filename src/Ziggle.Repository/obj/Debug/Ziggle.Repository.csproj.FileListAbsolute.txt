@@ -22,3 +22,8 @@ C:\source\WebStore\src\Ziggle.Repository\bin\Debug\System.Web.Razor.xml
 C:\source\WebStore\src\Ziggle.Repository\bin\Debug\System.Web.WebPages.xml
 C:\source\WebStore\src\Ziggle.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\source\WebStore\src\Ziggle.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\source\WebStore\src\Ziggle.Repository\bin\Debug\Ziggle.Repository.dll.config
+C:\source\WebStore\src\Ziggle.Repository\bin\Debug\EntityFramework.dll
+C:\source\WebStore\src\Ziggle.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\WebStore\src\Ziggle.Repository\bin\Debug\EntityFramework.xml
+C:\source\WebStore\src\Ziggle.Repository\bin\Debug\EntityFramework.SqlServer.xml
